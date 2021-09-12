@@ -1,5 +1,5 @@
 {
-  "name": "androspy",
+  "name": "androspy-ado-bot",
   "version": "1.0.0",
   "description": "NodeJS port of Dendroid server",
   "main": "index.js",
