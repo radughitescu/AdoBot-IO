@@ -4,7 +4,7 @@
   "description": "NodeJS port of Dendroid server",
   "main": "index.js",
     "engines": {
-    "node": "11.14.0"
+    "node": "9.11.2"
   },
   "scripts": {
     "migrate": "./node_modules/.bin/sequelize db:migrate",
